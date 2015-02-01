@@ -8,6 +8,6 @@
   "dependencies": {
     "express": "*",   
     "Twit":"*",
-     "Cron":"*"	
+    "cron":"*"	
   }
 }
